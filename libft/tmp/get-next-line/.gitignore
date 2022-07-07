@@ -1,0 +1,10 @@
+*.out
+*.exe
+*.swp
+*.DS_Store
+*.a
+*.o
+test.c
+test
+test.txt
+gnlTester

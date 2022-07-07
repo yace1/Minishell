@@ -1,0 +1,11 @@
+*.out
+*.exe
+*.swp
+*.swo
+*.DS_Store
+*.a
+*.o
+test.c
+test
+printfTester
+ft_printf_tester
